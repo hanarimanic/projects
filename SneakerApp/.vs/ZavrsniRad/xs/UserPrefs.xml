@@ -1,0 +1,39 @@
+﻿<Properties StartupConfiguration="{C94F57E8-B9D9-468B-8310-155459A23964}|Default">
+  <MonoDevelop.Ide.ItemProperties.SneakerShopApp PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.DAL PreferredExecutionTarget="MonoDevelop.Default" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workbench ActiveDocument="SneakerShopApp/Menus.cs">
+    <Files>
+      <File FileName="SneakerShopApp/Program.cs" />
+      <File FileName="DAL/Models/Category.cs" />
+      <File FileName="DAL/Models/SneakerShopContext.cs" />
+      <File FileName="DAL/DbMethods.cs" Line="286" Column="19" />
+      <File FileName="SneakerShopApp/Menus.cs" Line="179" Column="18" />
+      <File FileName="SneakerShopApp/CustomerModule.cs" Line="9" Column="34" />
+      <File FileName="DAL/Models/Customer.cs" Line="1" Column="1" />
+      <File FileName="DAL/Program.cs" Line="3" Column="1" />
+      <File FileName="SneakerShopApp/ProductsModule.cs" Line="127" Column="1" />
+      <File FileName="DAL/Models/Product.cs" Line="6" Column="1" />
+      <File FileName="SneakerShopApp/OrdersModule.cs" Line="119" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="ZavrsniRad">
+            <Node name="DAL">
+              <Node name="Models" expanded="True" />
+            </Node>
+            <Node name="SneakerShopApp">
+              <Node name="Menus.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

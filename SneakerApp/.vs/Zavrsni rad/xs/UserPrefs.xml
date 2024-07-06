@@ -1,0 +1,5 @@
+﻿<Properties StartupConfiguration="{C94F57E8-B9D9-468B-8310-155459A23964}|Default">
+  <MonoDevelop.Ide.ItemProperties.SneakerShopApp PreferredExecutionTarget="MonoDevelop.Default" FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.DAL FirstBuild="True" />
+  <MultiItemStartupConfigurations />
+</Properties>

@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 25.0.1706.12
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SneakerShopApp", "SneakerShopApp\SneakerShopApp.csproj", "{C94F57E8-B9D9-468B-8310-155459A23964}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DAL", "DAL\DAL.csproj", "{30161F03-F5FB-4FB8-AE64-0CEEA9654D77}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C94F57E8-B9D9-468B-8310-155459A23964}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C94F57E8-B9D9-468B-8310-155459A23964}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C94F57E8-B9D9-468B-8310-155459A23964}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C94F57E8-B9D9-468B-8310-155459A23964}.Release|Any CPU.Build.0 = Release|Any CPU
+		{30161F03-F5FB-4FB8-AE64-0CEEA9654D77}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{30161F03-F5FB-4FB8-AE64-0CEEA9654D77}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{30161F03-F5FB-4FB8-AE64-0CEEA9654D77}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{30161F03-F5FB-4FB8-AE64-0CEEA9654D77}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1F3DC9DF-900E-4D8B-A57E-4AFE3220EA73}
+	EndGlobalSection
+EndGlobal
